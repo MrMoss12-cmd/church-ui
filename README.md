@@ -1,1 +1,31 @@
-# church-ui
+# Prototipos de Landing Pages para Iglesias
+
+Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Cada prototipo incluye una vista previa visual y enlaces para ver el código fuente y la página desplegada.
+
+---
+
+### Prototipo 1: Comunidad Vibrante
+
+![Vista previa del Prototipo 1](placeholder_image_url_1.jpg)
+
+**[Ver Código](https://github.com/yourusername/church-prototype-1)** | **[Ver Página](https://prototype-1.netlify.app)**
+
+---
+
+### Prototipo 2: Tradición y Modernidad
+
+![Vista previa del Prototipo 2](placeholder_image_url_2.jpg)
+
+**[Ver Código](https://github.com/yourusername/church-prototype-2)** | **[Ver Página](https://prototype-2.netlify.app)**
+
+---
+
+### Prototipo 3: Enfoque Minimalista
+
+![Vista previa del Prototipo 3](placeholder_image_url_3.jpg)
+
+**[Ver Código](https://github.com/yourusername/church-prototype-3)** | **[Ver Página](https://prototype-3.netlify.app)**
+
+---
+
+**Nota:** Markdown no permite especificar directamente el tamaño de fuente (como 15pt) para el texto. Los enlaces se presentan con formato estándar de Markdown.
