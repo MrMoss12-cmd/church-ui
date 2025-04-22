@@ -27,5 +27,3 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 **[Ver Código](https://github.com/yourusername/church-prototype-3)** | **[Ver Página](https://prototype-3.netlify.app)**
 
 ---
-
-**Nota:** Markdown no permite especificar directamente el tamaño de fuente (como 15pt) para el texto. Los enlaces se presentan con formato estándar de Markdown.
