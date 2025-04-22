@@ -16,7 +16,7 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 
 ![Vista previa del Prototipo 2](https://i.ibb.co/DD0HQpnk/screen2-2.png)
 
- **[Ver Página](https://prototype-1.netlify.app)** | *[Ver Código](https://github.com/MrMoss12-cmd/espiritudeadoracion1)*
+ **[Ver Página](https://prototype-1.netlify.app)** | *[Ver Código](https://github.com/MrMoss12-cmd/espiritudeadoracion2)*
 
 ---
 
@@ -24,6 +24,6 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 
 ![Vista previa del Prototipo 3](https://i.ibb.co/CpSWbmd4/screen1-1.png)
 
- **[Ver Página](https://prototype-1.netlify.app)** | *[Ver Código](https://github.com/MrMoss12-cmd/espiritudeadoracion1)*
+ **[Ver Página](https://prototype-1.netlify.app)** | *[Ver Código](https://github.com/MrMoss12-cmd/espiritudeadoracion3)*
 
 ---
