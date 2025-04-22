@@ -6,7 +6,7 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 
 ### Prototipo 1: Comunidad Vibrante
 
-![Vista previa del Prototipo 1](placeholder_image_url_1.jpg)
+![Vista previa del Prototipo 1](https://i.ibb.co/TDwBqJJr/screen3-3.png)
 
 **[Ver Código](https://github.com/yourusername/church-prototype-1)** | **[Ver Página](https://prototype-1.netlify.app)**
 
@@ -14,7 +14,7 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 
 ### Prototipo 2: Tradición y Modernidad
 
-![Vista previa del Prototipo 2](placeholder_image_url_2.jpg)
+![Vista previa del Prototipo 2](https://i.ibb.co/DD0HQpnk/screen2-2.png)
 
 **[Ver Código](https://github.com/yourusername/church-prototype-2)** | **[Ver Página](https://prototype-2.netlify.app)**
 
@@ -22,7 +22,7 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 
 ### Prototipo 3: Enfoque Minimalista
 
-![Vista previa del Prototipo 3](placeholder_image_url_3.jpg)
+![Vista previa del Prototipo 3](https://i.ibb.co/CpSWbmd4/screen1-1.png)
 
 **[Ver Código](https://github.com/yourusername/church-prototype-3)** | **[Ver Página](https://prototype-3.netlify.app)**
 
