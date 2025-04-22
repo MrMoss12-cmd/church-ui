@@ -8,8 +8,7 @@ Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Ca
 
 ![Vista previa del Prototipo 1](https://i.ibb.co/TDwBqJJr/screen3-3.png)
 
-**[Ver Código](https://github.com/MrMoss12-cmd/espiritudeadoracion1)** | <font color="green"><a href="https://prototype-1.netlify.app"> Ver Pagina</a></font>
-
+ **[Ver Página](https://prototype-1.netlify.app)** | *[Ver Código](https://github.com/MrMoss12-cmd/espiritudeadoracion1)*
 ---
 
 ### Prototipo 2: Tradición y Modernidad
