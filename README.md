@@ -1,9 +1,4 @@
 # Prototipos de Landing Pages para Iglesias
-
-Aquí se presentan tres prototipos de diseño para landing pages de iglesias. Cada prototipo incluye una vista previa visual y enlaces para ver el código fuente y la página desplegada.
-
----
-
 ### Prototipo 1: Comunidad Vibrante
 
 ![Vista previa del Prototipo 1](https://i.ibb.co/TDwBqJJr/screen3-3.png)
